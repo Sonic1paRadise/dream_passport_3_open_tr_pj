@@ -15,3 +15,6 @@ there is a texture dumping app in tools folder.
 use it.
 # did i abuse copyright law publishing this repo?
 no because this is only for translations
+# forking the repo
+you need to change repo's name to dream_passport_3_open_tr_pj_xx.
+where x put the two digit lang name like: dream_passport_3_open_tr_pj_en
