@@ -13,3 +13,5 @@ it is obscure japanese irc
 # why there is a texture folder?
 there is a texture dumping app in tools folder.
 use it.
+# did i abuse copyright law publishing this repo?
+no because this is only for translations
