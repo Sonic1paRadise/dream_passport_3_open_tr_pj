@@ -1,0 +1,19 @@
+*group,pgrp00.bmp
+psegfa01.bmp,0,,ブルーの雨傘
+psegfa02.bmp,0,,ピンクのチュリップ
+psegfa03.bmp,0,,ミュージック
+psegfa04.bmp,0,,さくらんぼ
+psegku01.bmp,0,,Kumachan
+psegnl01.bmp,0,,DreamFlyer
+psegnl02.bmp,0,,Dreamcast
+psegbd01.bmp,0,,for you
+psegbd02.bmp,0,,花束
+psegxm01.bmp,0,,クリスマス
+psegxm02.bmp,0,,クリスマスツリー
+psegxm03.bmp,0,,スノーマン
+psegny02.bmp,0,,かがみもち
+psegny03.bmp,0,,タツノオトシゴ
+*group,+my.bmp
++vm.bmp
+*group,+dl.bmp
++vm.bmp

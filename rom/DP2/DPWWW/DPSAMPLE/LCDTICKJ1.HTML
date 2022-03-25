@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Original function Sample</title>
+</head>
+<body>
+<CENTER>
+<H3>DreamKey Original Function, LCD Ticker sample (with JavaScript)</H3>
+</CENTER>
+<HR>
+<H2>Look at the LCD</H2>
+<embed type=application/x-dreamcast-lcdticker
+       text="This is a test. Hello. Can you see ? "
+       behavior=alternate
+       font=20
+       hidden=true autostart=false>
+
+<FORM>
+<!-- embeds[0] means the first EMBED tag. -->
+<INPUT type="button" name="lcdtick" value="Display!" 
+ onClick="document.embeds[0].display=1">
+</FORM>
+
+</body>
+</html>
