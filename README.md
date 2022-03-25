@@ -10,3 +10,6 @@ it is obscure japanese irc
 2.create image
 3.paste contents of rom folder to dnd field.
 4.save and try to launch
+# why there is a texture folder?
+there is a texture dumping app in tools folder.
+use it.
