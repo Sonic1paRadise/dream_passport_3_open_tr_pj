@@ -3,7 +3,7 @@
 this is fully souce code of obscure japanese dreamcast browser. only for translation and forks.
 # what is DREAM PASSPORT 3?
 this is netfront powered browser for sega dreamcast
-# what is ch@b talk?
+# what is ch@b talk? 
 it is obscure japanese irc
 # how do i compile it?
 1.download discjuggler 6
